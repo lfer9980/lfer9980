@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi! I am Luis Fernández
+**I am biomedical engineer student at Universidad Autonoma de Chihuahua, but also I love software skills and that is my midnight hobbie. I am student at [Platzi](https://platzi.com "Platzi").**
 
-<!--
-**lfer9980/lfer9980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ###### Here you will find my crazy projects, and sometimes (I hope so) my professional software codes too.
 
-Here are some ideas to get you started:
+-------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###My social media:
+###### `<link>` : <https://www.instagram.com/lfer9980>
+
+-------------
+##My e-mail:
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>My - Email</title>
+    </head>
+    <body>
+    </body>
+	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js">
+	</script>
+	<script>
+		function sendEmail() {
+        text = 'If you have something really cool in your hands and want some help to create it, contact me here:'
+        email = 'luis.fer9980@gmail.com'
+		swal("HEY THERE!", `${text}\n ${email}`, 'success')
+        }
+        sendEmail()
+	</script>
+</html>
+```
+
+#### Email: luis.fer9980@gmail.com
