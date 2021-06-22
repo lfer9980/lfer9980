@@ -8,6 +8,7 @@
 
 ### My social media:
 ###### `<link>` : <https://www.instagram.com/lfer9980>
+###### `<link>` : <www.linkedin.com/in/lfer9980>
 
 -------------
 ## My e-mail:
